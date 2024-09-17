@@ -1,5 +1,5 @@
 # Customer Churn  and Risk Analysis using Power BI
-Tools - Power Bi, Excel
+Tools - Power BI, Excel
 
 Features - 
 - Conducted customer segmentation to categorize clients based on their characteristics and churn risk, which facilitated targeted marketing and improved engagement.
